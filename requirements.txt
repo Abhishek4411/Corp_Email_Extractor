@@ -1,0 +1,23 @@
+aiohttp
+beautifulsoup4
+dnspython
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+pandas
+requests
+lxml
+xlsxwriter
+openpyxl
+fake-useragent
+sentence-transformers
+torch
+transformers
+accelerate
+bitsandbytes
+nvidia-ml-py3
+python-dotenv
+typing-extensions
+tqdm          # progress bar (optional but used by many)
